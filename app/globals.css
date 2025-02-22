@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #faf7f5;
+  --foreground: #001e2b;
+  --primary: #409832;
+  --secondary: #ddd;
+  --accent: #ef4444;
+  --text-muted: #faf7f5;
+  --border: #e5e7eb;
+  --shadow: rgba(0, 0, 0, 0.05);
+}
+
+.dark {
+  --background: #001e2b;
+  --foreground: #faf7f5;
+  --primary: #00ed64;
+  --secondary: #ddd;
+  --accent: #00ed64;
+  --text-muted: #011627;
+  --border: #374151;
+  --shadow: rgba(255, 255, 255, 0.425);
+}
+
+
+html,
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+}
+
+
+.swal2-modal {
+  background-color: var(--background) !important;
+  box-shadow: var(--shadow);
+}
+
+.swal2-title {
+  color: var(--accent) !important;
+  font-size: 1.5em !important;
+  text-align: center !important;
+}
+
+.swal2-text,
+.swal2-html-container {
+  color: var(--foreground) !important;
+  padding: 2px 1.6em 0.3em !important;
+  text-align: center !important;
+}
+
+.swal2-confirm {
+  background-color: var(--accent) !important;
+  color: var(--background) !important;
+}
+
+.swal2-success-fix {
+  background-color: transparent !important;
+}
+
+.ace_editor {
+  padding: 20px;
+}
