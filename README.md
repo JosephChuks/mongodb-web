@@ -1,16 +1,5 @@
 # Mongo Web
 
-![image](https://github.com/user-attachments/assets/5e402eab-0494-4535-b59a-f78d07af69e7)
-
-![image](https://github.com/user-attachments/assets/766d35bf-8252-47a5-8430-4b5580bb248a)
-
-![image](https://github.com/user-attachments/assets/5cec8e99-c35c-4548-b277-7a78d9b2d163)
-
-![image](https://github.com/user-attachments/assets/3eae791d-3f60-4084-89e8-dba5ab2983e7)
-
-![image](https://github.com/user-attachments/assets/ebc4d773-ed97-47a8-90a2-5bd1145f9f9d)
-
-
 **Mongo Web - An equivalent of phpMyAdmin but for MongoDB.**
 
 Mongo Web is a simple web application for managing MongoDB databases. It allows you to view, create, update, and delete databases and collections, as well as perform CRUD operations on documents within collections through a web interface.
@@ -75,6 +64,16 @@ Pull requests are welcome! Feel free to fork the repository and submit improveme
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+
+![image](https://github.com/user-attachments/assets/5e402eab-0494-4535-b59a-f78d07af69e7)
+
+![image](https://github.com/user-attachments/assets/766d35bf-8252-47a5-8430-4b5580bb248a)
+
+![image](https://github.com/user-attachments/assets/5cec8e99-c35c-4548-b277-7a78d9b2d163)
+
+![image](https://github.com/user-attachments/assets/3eae791d-3f60-4084-89e8-dba5ab2983e7)
+
+![image](https://github.com/user-attachments/assets/ebc4d773-ed97-47a8-90a2-5bd1145f9f9d)
 
 ---
 
